@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657890801466') format('truetype');
+}
+
+.iconfont_kefu {
+  font-family: "iconfont" !important;
+  font-size: 28px;
+  opacity: 0.5;
+  text-align: center;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe635; */
+.icon-kefu:before {
+  content: "\e635";
+}

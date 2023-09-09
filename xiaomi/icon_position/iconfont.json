@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5924470",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}

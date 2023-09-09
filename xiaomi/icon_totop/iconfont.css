@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657890917131') format('truetype');
+}
+
+.iconfont_totop {
+  font-family: "iconfont" !important;
+  font-size: 30px;
+  opacity: 0.85;
+  font-weight: bold;
+  text-align: center;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe791; */
+.icon-l-goToTop:before {
+  content: "\e791";
+}

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657864863347') format('truetype');
+}
+
+.iconfont_gift {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  line-height: 24px;
+  opacity: 0.9;
+  vertical-align: -4px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xf01da; */
+.icon-liwuhuodong:before {
+  content: "\f01da";
+}

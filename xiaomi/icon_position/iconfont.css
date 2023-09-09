@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657865047626') format('truetype');
+}
+
+.iconfont_position {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  line-height: 24px;
+  opacity: 0.9;
+  vertical-align: -4px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe61c; */
+.icon-didian:before {
+  content: "\e61c";
+}

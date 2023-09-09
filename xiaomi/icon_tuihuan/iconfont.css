@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657854815202') format('truetype');
+}
+
+.iconfont_tuihuan {
+  font-family: "iconfont" !important;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 24px;
+  opacity: 0.9;
+  vertical-align: -4px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe600;(7) */
+.icon-15:before {
+  content: "\e639";
+}
+
+/* &#xe639;(15) */
+.icon-7:before {
+  content: "\e600";
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657672248342') format('truetype');
+}
+
+.iconfont_search {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xeafe; */
+.icon-sousuo:before {
+  content: "\eafe";
+}

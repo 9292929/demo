@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "142350",
+      "name": "play-circle",
+      "font_class": "playcircle",
+      "unicode": "e98b",
+      "unicode_decimal": 59787
+    }
+  ]
+}

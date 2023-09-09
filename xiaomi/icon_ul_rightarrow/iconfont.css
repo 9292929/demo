@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657676020660') format('truetype');
+}
+
+.iconfont_ul_rightarrow {
+  font-family: "iconfont" !important;
+  font-size: 22px;
+  padding-right: 18px;
+  font-weight: bold;
+  float: right;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe68c; */
+.icon-youjiantou:before {
+  content: "\e68c";
+}

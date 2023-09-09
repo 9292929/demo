@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657868285047') format('truetype');
+}
+
+.iconfont_message {
+  font-family: "iconfont" !important;
+  font-size: 14px;
+  opacity: 0.9;
+  font-style: normal;
+  padding-right: 5px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe621; */
+.icon-message:before {
+  content: "\e621";
+}

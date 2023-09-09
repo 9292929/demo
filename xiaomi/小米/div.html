@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" class="bigwight">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        :root {
+            --w:100px;
+            --h:100px;
+        }
+        :root.bigwight{
+            --w:200px;
+            --h:200px;
+        }
+        * {
+            margin:0;
+            padding:0;
+        }
+        .father {
+            width:var(--w);
+            height:var(--h);
+            background-color:rgba(0,0,0 ,0.5);
+        }
+        .father>div {
+            border:1px solid black;
+
+        }
+        .son {
+            width:200px;
+            height:200px;
+            
+        }
+        .sonson {
+            width:100px;
+            height:100px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="father">
+        <div class="son">
+            <div class="sonson">
+                <a href="">asdfad</a>
+                <p>aag<div></div></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

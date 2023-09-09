@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12932065",
+      "name": "l-goToTop2",
+      "font_class": "l-goToTop",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    }
+  ]
+}

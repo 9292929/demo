@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "936767",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "5387655",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "eb26",
+      "unicode_decimal": 60198
+    },
+    {
+      "icon_id": "34456396",
+      "name": "cloud-sync",
+      "font_class": "cloud-sync",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}

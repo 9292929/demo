@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TODOLIST</title>
+  <link rel="stylesheet"
+    href="https://at.alicdn.com/t/font_3367451_ccpjp65hhf9.css?spm=a313x.7781069.1998910419.51&file=font_3367451_ccpjp65hhf9.css" />
+  <link rel="stylesheet" href="do.css" />
+  <link rel="stylesheet" href="iconfont.css" />
+  <script src="do.js"></script>
+</head>
+ 
+<body>
+  <div class="container">
+    <!-- header -->
+    <div class="header">
+      <div class="header-left">
+        <h1>我的一天</h1>
+        <div class="myday">五月 17日星期日</div>
+      </div>
+      <div class="header-right">奥利给~！</div>
+    </div>
+ 
+    <!-- 添加任务 -->
+    <div class="new-task">
+      <span class="iconfont icon-plus"></span>
+      <input type="text" placeholder="添加任务" />
+    </div>
+ 
+    <!-- todo-list -->
+    <div class="todo-list"></div>
+ 
+    <!-- done-list -->
+    <div class="done-list"></div>
+ 
+    <!-- todo-list模板 -->
+    <div class="template">
+      <div class="todo-item">
+        <span class="iconfont icon-circle"></span>
+        <div class="todo-content">
+          <div class="todo-text">
+            <ul class="todo-list" id="todolist"></ul> 
+          </div>
+          <div class="todo-type">任务</div>
+        </div>
+        <span class="iconfont icon-xingxing1"></span>
+      </div>
+    </div>
+  </div>
+</body>
+ 
+</html>

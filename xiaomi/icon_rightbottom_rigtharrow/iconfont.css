@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1657802418094') format('truetype');
+}
+
+.iconfont_rightbottom_rightarrow {
+  font-family: "iconfont" !important;
+  font-size: 55px;
+  color: #FF6700;
+  float: right;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* &#xe602; */
+.icon-youjiantou:before {
+  content: "\e602";
+}
